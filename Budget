@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Budget Analysis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Budget vs Actual</h1>
+    <p>Planned Spend: $20,000<br>Actual Spend: $18,500<br>Status: Under Budget</p>
+</body>
+</html>
